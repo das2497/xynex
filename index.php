@@ -10,7 +10,7 @@
 
 <body>
 <button>ggg</button>
-<h1>git clone karala kale</h1>
+<h1>vs eken</h1>
 </body>
 
 </html>
